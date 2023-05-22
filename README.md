@@ -1,5 +1,7 @@
 # 🏄‍♂️ Sumanth Donthula
 
+![Data](https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif)
+
 **`Machine Learning, AI and Data Engineer (Developer/Part-time Youtuber/ Blogger)`**
 
 <summary><h3>👨‍💻 Sumanth's Coding Journey</h3></summary>
