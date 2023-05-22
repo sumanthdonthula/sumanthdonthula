@@ -2,20 +2,16 @@
 
 **`Machine Learning, AI and Data Engineer (Developer/Part-time Youtuber/ Blogger)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+<details>
+ <summary><h3>👨‍💻 Sumanth's Coding Journey</h3></summary>
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+I am an experienced software engineer with a strong background in machine learning and artificial intelligence. I have extensive experience working with Python and various machine learning libraries. I am always eager to learn new software and tools as needed to stay up-to-date with the latest advancements in the field.
 
----
+Throughout my career, I have worked on numerous projects that involved the development of algorithms and models to uncover hidden patterns and relationships in large datasets. I have a deep understanding of machine learning techniques and have successfully implemented them in real-world scenarios.
+
+I am proficient in working with cloud solutions such as Snowflake, Azure Data Lake, Azure Data Factory, and Databricks
+
+
 
 ### 🧰 Languages and Tools
 
@@ -23,7 +19,6 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="data:image/jpeg;base64,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" />
 
 <br />
 
@@ -44,17 +39,5 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+[website]: https://sumanthdonthula.github.io/Portfolio/
+[youtube]: https://youtube.com/@donthulasumanth5415
