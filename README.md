@@ -10,7 +10,7 @@ Throughout my career, I have worked on numerous projects that involved the devel
 
 I am proficient in working with cloud solutions such as Snowflake, Azure Data Lake, Azure Data Factory, and Databricks
 
-<details>
+<websites>
 [website]: https://sumanthdonthula.github.io/Portfolio/
 [youtube]: https://youtube.com/@donthulasumanth5415
 
