@@ -1,5 +1,5 @@
 # 🏄‍♂️ Sumanth Donthula
-<img src="https://media.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy-downsized-large.gif" alt="Data" width="300">
+<img src="https://media.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy-downsized-large.gif" alt="Funny GIF" width="300px">
 
 
 **`Machine Learning, AI and Data Engineer (Developer/Part-time Youtuber/ Blogger)`**
