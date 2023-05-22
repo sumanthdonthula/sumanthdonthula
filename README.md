@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif" alt="Data Enth" width="300">
 
 
-**`Machine Learning, AI and Data Engineer (Developer/Part-time Youtuber/ Blogger)`**
+**`Machine Learning, AI and Data Engineer (Developer/Part-time Youtuber/Blogger)`**
 
 <summary><h3>👨‍💻 Sumanth's Coding Journey</h3></summary>
 
