@@ -1,5 +1,6 @@
 # 🏄‍♂️ Sumanth Donthula
-<img src="https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif" alt="Data" width="300">
+<img src="https://media.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy-downsized-large.gif" alt="Data" width="300">
+
 
 **`Machine Learning, AI and Data Engineer (Developer/Part-time Youtuber/ Blogger)`**
 
