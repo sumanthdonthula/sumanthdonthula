@@ -2,9 +2,9 @@
 <img src="https://media.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif" alt="Data Enth" width="300">
 
 
-**`Machine Learning, AI and Data Engineer (Developer/Part-time Youtuber/Blogger)`**
+**`Machine Learning, AI and Data Engineer`**
 
-<summary><h3>👨‍💻 Sumanth's Coding Journey</h3></summary>
+<summary><h3>👨‍💻 About Me</h3></summary>
 
 I am an experienced software engineer with a strong background in machine learning and artificial intelligence. I have extensive experience working with Python and various machine learning libraries. I am always eager to learn new software and tools as needed to stay up-to-date with the latest advancements in the field.
 
