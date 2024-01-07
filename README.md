@@ -48,12 +48,17 @@ I am proficient in working with cloud solutions such as Snowflake, Azure Data La
 </p>
 
 ## New
-
 <p align="center">
-  <img width="70%" src="https://github-profile-icons.vercel.app/api/icon?user=SumanthDonthula&theme=react"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=SumanthDonthula&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&hide_rank=true">
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-linkedin.vercel.app/user?username=sumanth-donthula"/>
+  <img src="https://img.shields.io/badge/Total%20Commits-1000-blue">
+  <img src="https://img.shields.io/badge/Experience-5%20years-orange">
 </p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthDonthula&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</p>
+
 
