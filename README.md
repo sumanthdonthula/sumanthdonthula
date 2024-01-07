@@ -33,6 +33,27 @@ I am proficient in working with cloud solutions such as Snowflake, Azure Data La
 
 <br />
 
-#
+## Testing
+
+<br/>
+<p align="left">
+  <a href="https://www.torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sumanth Donthula&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=torrinworx&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
+
+<!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sumanth Donthula&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
+
+<p align="center">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth Donthula&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{torrinworx}/count.svg"></p>
+
+
 
 
