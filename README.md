@@ -34,9 +34,6 @@ I am proficient in working with cloud solutions such as Snowflake, Azure Data La
 <br />
 
 ## 📊 Git Stats
-<p align="center">
-  <img width="70%" src="https://github-profile-icons.vercel.app/api/icon?user=SumanthDonthula&theme=react"/>
-</p>
 
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=SumanthDonthula&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&hide_rank=true">
