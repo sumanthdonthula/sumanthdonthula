@@ -40,6 +40,18 @@ I am proficient in working with cloud solutions such as Snowflake, Azure Data La
 </p>
 
 <p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanthDonthula&theme=radical&hide_border=true">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthDonthula&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://profile-counter.glitch.me/SumanthDonthula/count.svg">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Total%20Commits-1000-blue">
   <img src="https://img.shields.io/badge/Experience-5%20years-orange">
 </p>
@@ -48,9 +60,6 @@ I am proficient in working with cloud solutions such as Snowflake, Azure Data La
   <img width="70%" src="https://github-profile-trophy.vercel.app/?username=SumanthDonthula&theme=nord&column=7">
 </p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthDonthula&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-</p>
 
 
 
