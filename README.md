@@ -4,7 +4,7 @@
 
 **`Machine Learning, AI and Data Engineer`**
 
-<summary><h3>👨‍💻 About Me</h3></summary>
+# 👨‍💻 About Me
 
 I am an experienced software engineer with a strong background in machine learning and artificial intelligence. I have extensive experience working with Python and various machine learning libraries. I am always eager to learn new software and tools as needed to stay up-to-date with the latest advancements in the field.
 
@@ -60,6 +60,3 @@ I am proficient in working with cloud solutions such as Snowflake, Azure Data La
 <p align="center">
   <img width="70%" src="https://github-profile-trophy.vercel.app/?username=SumanthDonthula&theme=nord&column=7">
 </p>
-
-
-
