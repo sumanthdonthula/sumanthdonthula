@@ -33,20 +33,6 @@ I am proficient in working with cloud solutions such as Snowflake, Azure Data La
 
 <br />
 
-## Testing in Progress
-
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SumanthDonthula&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&hide_rank=true">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanthDonthula&theme=radical&hide_border=true">		  
-</p>
-<br>
-
-<p align="center"><img src="https://profile-counter.glitch.me/SumanthDonthula/count.svg"></p>
-
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthDonthula&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-</p>
-
 ## 📊 Git Stats
 <p align="center">
   <img width="70%" src="https://github-profile-icons.vercel.app/api/icon?user=SumanthDonthula&theme=react"/>
