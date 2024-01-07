@@ -47,4 +47,46 @@ I am proficient in working with cloud solutions such as Snowflake, Azure Data La
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthDonthula&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
+## New
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=SumanthDonthula&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&hide_rank=true">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumanthDonthula&theme=radical&hide_border=true">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://profile-counter.glitch.me/SumanthDonthula/count.svg">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthDonthula&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=SumanthDonthula&theme=nord&column=7">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=SumanthDonthula&custom_title=GitHub%20Contribution%20Graph&theme=react-dark">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=SumanthDonthula&theme=radical&hide_border=true">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=socrates">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-profile-icons.vercel.app/api/icon?user=SumanthDonthula&theme=react"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-linkedin.vercel.app/user?username=sumanth-donthula"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=SumanthDonthula&show_icons=true&count_private=true&hide_title=true&hide=issues&hide_border=true&theme=radical">
+</p>
 
