@@ -43,8 +43,9 @@ Hit Reload(ctrl+ r), If the stats aren't loaded properly
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthDonthula&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthDonthula&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude=jupyter%20notebook">
 </p>
+
 
 # Profile Clicks
 
